@@ -1,1 +1,5 @@
 # jayc_UI_dreadmyst
+
+1 - Backup this : C:\Program Files (x86)\Steam\steamapps\common\Dreadmyst\content
+2 - Go in the content folder, we'll replace files in there.
+3 - Copy my PNG's (according to the folders name) and paste them in the folder to replace.
